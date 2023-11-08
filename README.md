@@ -75,8 +75,8 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT
-![Alt text](<Screenshot 2023-10-25 095607.png>)
-![Alt text](<Screenshot 2023-10-25 100019.png>)
+![Alt text](<web 2.png>)
+![Alt text](<software web2.png>)
 
 
 ## RESULT:
